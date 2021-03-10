@@ -1,0 +1,19 @@
+{
+  "name": "ugv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chehak123/UGV-DTU.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chehak123/UGV-DTU/issues"
+  },
+  "homepage": "https://github.com/chehak123/UGV-DTU#readme"
+}
